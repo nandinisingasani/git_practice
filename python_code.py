@@ -1,5 +1,5 @@
 import numpy
-a=10
-b=20
+a=101
+b=202
 c=a+b
 print c
